@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🔭 I’m currently working on Fiverr (https://www.fiverr.com/ivanraptor730). Help me gain experience by giving me a thing to work on!
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <!--
 **ivanraptor730/ivanraptor730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
