@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Aldwin A. Cristobal</h1>
-<h3 align="center">An Aviation Geek, Koreaboo, and a Passionate Web Developer from the Philippines!</h3>
+<h3 align="center">An Aviation Geek, Koreaboo, and an aspiring Web Developer from the Philippines!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ivanraptor730&label=Profile%20views&color=0099ff&style=flat" alt="ivanraptor730" /> </p>
 
